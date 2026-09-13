@@ -1,3 +1,4 @@
+package Varibles_and_Datatype;
 public class basic {
   public static void main(String[] args) {
     System.out.println("4");

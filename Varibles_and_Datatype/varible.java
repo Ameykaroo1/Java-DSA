@@ -1,3 +1,4 @@
+package Varibles_and_Datatype;
 public class varible {
   public static void main(String[] args) {
     int x;
