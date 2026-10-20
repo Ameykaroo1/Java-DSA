@@ -1,5 +1,3 @@
-
-package Array_2D;
 public class Search_in_sortedMatrix {
     public static boolean search(int matrix[][], int key) {
         int row = 0;

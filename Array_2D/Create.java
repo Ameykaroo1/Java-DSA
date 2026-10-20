@@ -1,4 +1,3 @@
-package Array_2D;
 import java.util.Scanner;
 public class Create {
   public static  boolean search(int matrix[][], int key){

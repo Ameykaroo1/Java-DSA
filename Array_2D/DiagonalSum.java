@@ -1,6 +1,3 @@
-
-package Array_2D;
-
 public class DiagonalSum {
 
     public static int diagonalSum(int matrix[][]) {

@@ -1,4 +1,3 @@
-package Array_2D;
 public class SpiralMatrix {
 public static void printSpiral(int matrix[][]){
   int startRow = 0;
